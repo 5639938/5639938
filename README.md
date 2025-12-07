@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [http://github.com//anushkabsiney](http://github.com//anushkabsiney)
 
-- 💬 Ask me about **react , Full stack**
+- 💬 Ask me about **React , Full stack**
 
 - 📫 How to reach me **anushka.bisney27@gmail.com**
 
