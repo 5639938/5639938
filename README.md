@@ -1,6 +1,6 @@
 <h1 align="center"> Welcome to my profile 😊!! 
   I'm Anushka Bisney</h1>
-<h3 align="center">A passointe Software Engineer from india</h3>
+<h3 align="center">A passionate Software Engineer from india</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=5639938&label=Profile%20views&color=0e75b6&style=flat" alt="5639938" /> </p>
 
